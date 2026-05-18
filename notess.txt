@@ -3,3 +3,4 @@ second upadate
 this line in new-feature branch
 dark mode feture add
 remote version from github
+traning and testing if im understand the work flow or not
